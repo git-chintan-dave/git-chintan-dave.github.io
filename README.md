@@ -6,7 +6,7 @@
 
 Building scalable SaaS platforms, enterprise applications, REST APIs, and modern web experiences with Laravel & Vue.js.
 
-[Portfolio](https://your-domain.com) • [LinkedIn](https://linkedin.com/in/chintandave) • [Email](mailto:your@email.com)
+[Portfolio](https://chintandave.vercel.app) • [LinkedIn](https://linkedin.com/in/chintandave) • [Email](mailto:connect.chintan.dave@gmail.com)
 
 </div>
 
