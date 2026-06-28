@@ -125,9 +125,9 @@ I'm always interested in discussing:
 - Software Architecture
 - Engineering Leadership
 
-📧 your@email.com
+📧 connect.chintan.dave@gmail.com
 
-🌐 https://your-domain.com
+🌐 https://chintandave.vercel.app/
 
 💼 https://linkedin.com/in/chintandave
 
